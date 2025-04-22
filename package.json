@@ -1,0 +1,15 @@
+{
+  "name": "fake-contact-details-checker",
+  "version": "1.0.0",
+  "description": "A simple es module to check if a contact details page is fake or not.",
+  "author": "Rakesh Kumar",
+  "license": "MIT",
+  "main": "index.js",
+  "packageManager": "yarn@4.6.0",
+  "type": "module",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skalinchuk/celery.node.git"
+  }
+}
